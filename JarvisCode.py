@@ -13,9 +13,6 @@ import speech_recognition as sr
 
 import MyAPIKey
 
-# My secret API Key DONT SHARE
-# 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
-
 lang = 'en'
 # Accent
 tld = 'ie'
