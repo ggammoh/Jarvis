@@ -54,12 +54,6 @@ while True:
                     speech.save(file_name)
                     print(text)
                     playsound(file_name)
-                else:
-                    if "fortnite" in said:
-                        try:
-                            playsound("fortnite.mp3")
-                        except Exception as forte:
-                            print(forte)
             except Exception as error:
                 print(error)
 
