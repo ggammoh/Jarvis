@@ -5,3 +5,8 @@
 
 Inspired by "How to Create Personal AI Assistant | Like Iron Man" by PhD Security
 https://www.youtube.com/watch?v=RAKpMYOlttA
+
+Known errors include:
+Error 263: I belive this is when the program tries to call a file that does not exist. This has hopefully been solved by downgrading the playsound library to version 1.2.2
+
+"You exceeded your current quota, please check your plan and billing details.": This means your free trial credits using gpt api have expired or you have run out. To solve this you must purchase at least 5$ of usage on your openai account.
