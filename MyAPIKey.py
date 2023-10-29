@@ -1,1 +1,1 @@
-key = "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"
+key = "Put your private apiKey here"
